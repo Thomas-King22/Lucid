@@ -1,12 +1,21 @@
 html {
-    background: #22dd52;
+    background: cornsilk;
 
 }
 
 h1{
-    font-size:20px;
+    font-size:  40px;
 }
 
 p{
     font-size: 30px;
+}
+
+a:hover{
+    color:black;
+}
+
+img{
+    width: 260px;
+    height: 260px;
 }
