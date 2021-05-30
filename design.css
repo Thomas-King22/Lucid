@@ -8,14 +8,31 @@ h1{
 }
 
 p{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 a:hover{
     color:black;
 }
+#main{
+    text-align: center;
+}
 
 img{
     width: 260px;
     height: 260px;
+}
+
+.learn{
+    border:1px solid black;
+    padding: 5px;
+    color:black;
+}
+.learn:hover{
+    background: white;
+}
+
+.help{
+    width: 350px;
+    height: 350px;
 }
